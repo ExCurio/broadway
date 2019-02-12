@@ -12,6 +12,7 @@ h1 {
 a {
 	font-size: 18px;
 	color: white;
+	padding-right: 5px;
 }
 
 h2 {
@@ -28,6 +29,22 @@ p {
 	font-size: 14px;
 }
 
+nav {
+	background-color: dimgray;
+	text-align: left;
+	padding-right: 30px;
+}
+
+span {
+	font-size: 11px;
+	color: white;
+}
+
 .home {
+	background-image: url("../images/the-flatiron-building.png");
+}
+
+.design {
+	color: white;
 	background-image: url("../images/the-flatiron-building.png");
 }
